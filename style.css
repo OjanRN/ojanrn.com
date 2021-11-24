@@ -1,0 +1,92 @@
+body {
+    background-image: url("pagewallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+h1 {
+    color: white;
+    font-family:monospace;
+    min-height: 10px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    color:rgb(0, 255, 0);
+    font-family: monospace;
+    text-shadow: 0 0 25px rgb(0, 255, 0);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+h1 a {
+    color:white
+}
+
+
+#div1 {
+    background-image: linear-gradient(to bottom right, blue, red);
+    float: left;
+}
+
+#div2 {
+    background-image: linear-gradient(to bottom right,white, red, white);
+    float: left;
+}
+
+#div1 a {
+    color:white;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+
+#div2 a {
+    color:white;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+#div3 {
+    background-image: linear-gradient(to top left, red, black, cyan);
+    float: left;
+}
+
+#div3 a {
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+h6 {
+    color: rgb(0, 255, 0);
+    font-family: monospace;
+    font-size: 14;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#divp21 {
+    background-image: linear-gradient(to bottom, green, cyan);
+    border: 10px solid grey;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+hr {
+    clear:both;
+    border-color: transparent;
+
+}
