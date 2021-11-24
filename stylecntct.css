@@ -20,7 +20,7 @@ h2 {
     display: flex;
     margin: 0;
     padding: 0;
-    font-family: 'Agency FB';
+    font-family: Arial;
     color: white;
 }
 
@@ -32,6 +32,6 @@ a {
     display: flex;
     margin:0;
     padding: 0;
-    font-family: 'Agency FB';
+    font-family: Arial;
     font-size: 31px;
 }

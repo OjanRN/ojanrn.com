@@ -76,14 +76,7 @@ h6 {
 }
 
 
-#divp21 {
-    background-image: linear-gradient(to bottom, green, cyan);
-    border: 10px solid grey;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    background-color: black;
-}
+
 
 hr {
     clear:both;
