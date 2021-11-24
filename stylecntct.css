@@ -23,3 +23,8 @@ h2 {
     font-family: 'Agency FB';
     color: white;
 }
+
+a {
+    color: white;
+    font-family: monospace;
+}
